@@ -7,7 +7,7 @@ Installation
 Add it to your app:
 
 ```
-heroku buildpacks:add https://github.com/LarsFronius/heroku-buildpack-xray
+heroku buildpacks:add https://github.com/COMPEON/heroku-buildpack-xray
 ```
 
 Configuration
